@@ -15,9 +15,14 @@
         "ime.sogou.com",
         "sginput.sogou.com"
       ],
-      "user_agent": [
+      "package_name": [
           "SogouInput",
           "com.sogou.sogouinput.BaseKeyboard"
+        ],
+      "process_name": [
+          "SogouInput",
+          "SogouTaskManager",
+          "SogouServices"
         ]
     }
   ]
